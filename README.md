@@ -40,6 +40,10 @@ _This video is sponsored by PCBWay. By using the link, you can get 10 PCBs for f
 
 
 
+![THUMB_edgelit_B](https://github.com/upiir/transparent_edgelit_segment_display/assets/117754156/eb5ba4b7-fc78-4f47-8a14-71bf098fb81b)
+
+
+
 
 Small Animations:
 
